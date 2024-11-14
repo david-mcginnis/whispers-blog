@@ -1,5 +1,8 @@
-_site
+#_site
 .DS_Store
 *.swp
 .sass-cache
 *~
+_site/upload.sh
+_site/runLocal.sh
+_site/docker-compose.yml
