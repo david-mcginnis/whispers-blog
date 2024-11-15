@@ -1,5 +1,5 @@
----
 layout: post
+---
 title:  "Let's test spoilers"
 author: viskaren
 categories: [ Jekyll, tutorial ]
