@@ -5,9 +5,51 @@
     <description>mitt liv vid havet</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Nov 2024 11:21:27 +0100</pubDate>
-    <lastBuildDate>Fri, 15 Nov 2024 11:21:27 +0100</lastBuildDate>
+    <pubDate>Sat, 16 Nov 2024 11:20:32 +0100</pubDate>
+    <lastBuildDate>Sat, 16 Nov 2024 11:20:32 +0100</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>Recept på äppelkaka</title>
+        <description>&lt;h2 id=&quot;ingredienser&quot;&gt;Ingredienser&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Sätt ugnen på 175 grader&lt;/li&gt;
+  &lt;li&gt;3 ägg och 2 dl socker vispas fluffigt&lt;/li&gt;
+  &lt;li&gt;3dl vetemjöl&lt;/li&gt;
+  &lt;li&gt;1tsk bakpulver&lt;/li&gt;
+  &lt;li&gt;1,5tsk vaniljpulver&lt;/li&gt;
+  &lt;li&gt;smält 150g smör och tillsätt 0,5dl mjöl eller filmjölk&lt;/li&gt;
+  &lt;li&gt;vispa lätt ihop alla igredienserna&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gör-så-här&quot;&gt;Gör så här&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Förberedelse av äpplena&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;5st syrliga äpplen skalas och skivas i klyftor, som sjudas några minuter.&lt;/li&gt;
+      &lt;li&gt;sila vattnet från äpplena och låt dem kallna&lt;/li&gt;
+      &lt;li&gt;stö därefter kanel på äpplena&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Förberedelse av kakformen&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;smörj kakformen med smör eller klä den med blött bakplåtspapper&lt;/li&gt;
+      &lt;li&gt;häll smeten i formen och toppa den med äpplena&lt;/li&gt;
+      &lt;li&gt;strö över med 0,5dl stösocker&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 16 Nov 2024 00:00:00 +0100</pubDate>
+        <link>/appelkaka-recept/</link>
+        <guid isPermaLink="true">/appelkaka-recept/</guid>
+        
+        <category>dessert</category>
+        
+        
+        <category>recept</category>
+        
+      </item>
     
       <item>
         <title>Min första post</title>
