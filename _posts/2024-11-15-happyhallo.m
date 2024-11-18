@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Min andra post"
+title:  "Happy halloween"
 author: viskaren
 categories: [ recipes ]
 tags: [red]

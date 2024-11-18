@@ -2,8 +2,8 @@
 layout: post
 title:  "Min första post"
 author: viskaren
-categories: [ recipes,Jekyll, tutorial ]
-tags: [red]
+categories: [ bilder]
+tags: [natur]
 image: assets/images/sunrise.jpg
 comments: false
 featured: true
