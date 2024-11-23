@@ -7,8 +7,8 @@ var documents = [{
     }, {
     "id": 1,
     "url": "/about",
-    "title": "Mediumish Template for Jekyll",
-    "body": "This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.  Documentation: Please, read the docs here. Questions or bug reports?: Head over to our Github repository! Buy me a coffeeThank you for your support! Your donation helps me to maintain and improve Mediumish . Buy me a coffee Documentation"
+    "title": "Visparen",
+    "body": ""
     }, {
     "id": 2,
     "url": "/categories",
@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "/",
     "title": "Home",
-    "body": "      Utvalda:                                                                                                                                                                                                           Blå himmel                              :               Måndag,sen eftermiddag. Kall men underbar dag vid havet. Klar himmel hela dagen. Nu går solen ned och molnen börjar lägga sig som ett täcke över Brantevik. . . . :                                                                                                                                                                       Viskaren                                18 Nov 2024                                                                                                                                                                                                                                                                                                                  Recept på äppelkaka                              :               Ingredienser Sätt ugnen på 175 grader 3 ägg och 2 dl socker vispas fluffigt 3dl vetemjöl 1tsk bakpulver 1,5tsk vaniljpulver smält 150g smör och tillsätt. . . :                                                                                                                                                                       Viskaren                                16 Nov 2024                                                                                                                                                                                                                                                                                                                  Min första post                              :               Det är svårt att lära sig comands:                                                                                                                                                                       Viskaren                                15 Nov 2024                                                                                                                                                                                                                                                                                                                  Happy halloween                              :               Fredagmorgon:                                                                                                                                                                       Viskaren                                15 Nov 2024                                                                                                                      Alla berättelser:                                                                                                     Blå himmel              :       Måndag,sen eftermiddag. Kall men underbar dag vid havet. Klar himmel hela dagen. Nu går solen ned och molnen börjar lägga sig som ett täcke över Brantevik. :                                                                               Viskaren                18 Nov 2024                                                                                                                                     Happy halloween              :       Fredagmorgon:                                                                               Viskaren                15 Nov 2024                                            "
+    "body": "      Utvalda:                                                                                                                                                                                                           Första snön                              :               De sista äpplena i trädgården. :                                                                                                                                                                       Viskaren                                22 Nov 2024                                                                                                                                                                                                                                                                                                                  Blå himmel                              :               Måndag,sen eftermiddag. Kall men underbar dag vid havet. Klar himmel hela dagen. Nu går solen ned och molnen börjar lägga sig som ett täcke över Brantevik. . . . :                                                                                                                                                                       Viskaren                                18 Nov 2024                                                                                                                                                                                                                                                                                                                  Recept på äppelkaka                              :               Ingredienser Sätt ugnen på 175 grader 3 ägg och 2 dl socker vispas fluffigt 3dl vetemjöl 1tsk bakpulver 1,5tsk vaniljpulver smält 150g smör och tillsätt. . . :                                                                                                                                                                       Viskaren                                16 Nov 2024                                                                                                                                                                                                                                                                                                                  Min första post                              :               Det är svårt att lära sig comands:                                                                                                                                                                       Viskaren                                15 Nov 2024                                                                                                                                                                                                                                                                                                                  Happy halloween                              :               Fredagmorgon:                                                                                                                                                                       Viskaren                                15 Nov 2024                                                                                                                      Alla berättelser:                                                                                                     Blå himmel              :       Måndag,sen eftermiddag. Kall men underbar dag vid havet. Klar himmel hela dagen. Nu går solen ned och molnen börjar lägga sig som ett täcke över Brantevik. :                                                                               Viskaren                18 Nov 2024                                                                                                                                     Happy halloween              :       Fredagmorgon:                                                                               Viskaren                15 Nov 2024                                            "
     }, {
     "id": 4,
     "url": "/robots.txt",
@@ -26,21 +26,26 @@ var documents = [{
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 5,
+    "url": "/f%C3%B6rstasn%C3%B6n/",
+    "title": "Första snön",
+    "body": "2024/11/22 - De sista äpplena i trädgården. Eftermiddagens snö täckte stengången till huset. "
+    }, {
+    "id": 6,
     "url": "/bl%C3%A5himmel/",
     "title": "Blå himmel",
     "body": "2024/11/18 - Måndag,sen eftermiddag. Kall men underbar dag vid havet. Klar himmel hela dagen. Nu går solen ned och molnen börjar lägga sig som ett täcke över Brantevik. "
     }, {
-    "id": 6,
+    "id": 7,
     "url": "/appelkaka-recept/",
     "title": "Recept på äppelkaka",
     "body": "2024/11/16 - Ingredienser:  Sätt ugnen på 175 grader 3 ägg och 2 dl socker vispas fluffigt 3dl vetemjöl 1tsk bakpulver 1,5tsk vaniljpulver smält 150g smör och tillsätt 0,5dl mjöl eller filmjölk vispa lätt ihop alla igrediensernaGör så här:  Förberedelse av äpplena     5st syrliga äpplen skalas och skivas i klyftor, som sjudas några minuter.    sila vattnet från äpplena och låt dem kallna   stö därefter kanel på äpplena    Förberedelse av kakformen     smörj kakformen med smör eller klä den med blött bakplåtspapper   häll smeten i formen och toppa den med äpplena   strö över med 0,5dl stösocker   "
     }, {
-    "id": 7,
-    "url": "/myfirstpost.md/",
+    "id": 8,
+    "url": "/myfirstpost/",
     "title": "Min första post",
     "body": "2024/11/15 - Det är svårt att lära sig comands "
     }, {
-    "id": 8,
+    "id": 9,
     "url": "/happyhallo/",
     "title": "Happy halloween",
     "body": "2024/11/15 - Fredagmorgon "

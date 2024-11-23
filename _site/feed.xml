@@ -5,9 +5,27 @@
     <description>mitt liv vid havet</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Nov 2024 16:07:28 +0100</pubDate>
-    <lastBuildDate>Mon, 18 Nov 2024 16:07:28 +0100</lastBuildDate>
+    <pubDate>Sat, 23 Nov 2024 11:16:25 +0100</pubDate>
+    <lastBuildDate>Sat, 23 Nov 2024 11:16:25 +0100</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>Första snön</title>
+        <description>&lt;p&gt;De sista äpplena i trädgården.
+&lt;img src=&quot;/assets/images/snöpåuppfarten.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Eftermiddagens snö täckte stengången till huset.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Nov 2024 00:00:00 +0100</pubDate>
+        <link>/f%C3%B6rstasn%C3%B6n/</link>
+        <guid isPermaLink="true">/f%C3%B6rstasn%C3%B6n/</guid>
+        
+        <category>natur</category>
+        
+        
+        <category>bilder</category>
+        
+      </item>
     
       <item>
         <title>Blå himmel</title>
@@ -68,10 +86,11 @@
     
       <item>
         <title>Min första post</title>
-        <description>Det är svårt att lära sig comands</description>
+        <description>&lt;p&gt;Det är svårt att lära sig comands&lt;/p&gt;
+</description>
         <pubDate>Fri, 15 Nov 2024 00:00:00 +0100</pubDate>
-        <link>/myfirstpost.md/</link>
-        <guid isPermaLink="true">/myfirstpost.md/</guid>
+        <link>/myfirstpost/</link>
+        <guid isPermaLink="true">/myfirstpost/</guid>
         
         <category>natur</category>
         
