@@ -25,7 +25,12 @@ hidden: true
   - sila vattnet från äpplena och låt dem kallna
   - stö därefter kanel på äpplena
 
+![](/assets/images/äpple.jpg)
+
 - **Förberedelse av kakformen**
   - smörj kakformen med smör eller klä den med blött bakplåtspapper
   - häll smeten i formen och toppa den med äpplena
   - strö över med 0,5dl stösocker
+
+
+![](/assets/images/klarkaka.jpg)

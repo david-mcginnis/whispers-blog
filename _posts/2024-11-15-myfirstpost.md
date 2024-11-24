@@ -6,7 +6,7 @@ categories: [ bilder]
 tags: [natur]
 image: assets/images/sunrise.jpg
 comments: false
-featured: true
+featured: false
 hidden: true
 #rating: 4.5
 ---

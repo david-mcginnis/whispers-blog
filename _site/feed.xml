@@ -5,25 +5,47 @@
     <description>mitt liv vid havet</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Nov 2024 11:16:25 +0100</pubDate>
-    <lastBuildDate>Sat, 23 Nov 2024 11:16:25 +0100</lastBuildDate>
+    <pubDate>Sun, 24 Nov 2024 10:54:06 +0100</pubDate>
+    <lastBuildDate>Sun, 24 Nov 2024 10:54:06 +0100</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
     
       <item>
-        <title>Första snön</title>
-        <description>&lt;p&gt;De sista äpplena i trädgården.
-&lt;img src=&quot;/assets/images/snöpåuppfarten.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Eftermiddagens snö täckte stengången till huset.&lt;/p&gt;
+        <title>Surf i Brantevik</title>
+        <description>&lt;p&gt;Starka vindar från söder är perfekt för surfing idag.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 22 Nov 2024 00:00:00 +0100</pubDate>
-        <link>/f%C3%B6rstasn%C3%B6n/</link>
-        <guid isPermaLink="true">/f%C3%B6rstasn%C3%B6n/</guid>
+        <pubDate>Sun, 24 Nov 2024 00:00:00 +0100</pubDate>
+        <link>/surf/</link>
+        <guid isPermaLink="true">/surf/</guid>
         
         <category>natur</category>
         
         
         <category>bilder</category>
+        
+      </item>
+    
+      <item>
+        <title>Förstasnön</title>
+        <description>&lt;p&gt;ermiddagens snö täckte stengången till huset. —
+layout: post
+title:  “Första snön”
+author: viskaren
+categories: [ bilder]
+tags: [natur]
+image: assets/images/förstasnön.jpg
+comments: false
+featured: true
+hidden: true
+#rating: 4.5
+—
+De sista äpplena i trädgården.
+&lt;img src=&quot;/assets/images/snöpåuppfarten.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 22 Nov 2024 00:00:00 +0100</pubDate>
+        <link>/f%C3%B6rstasn%C3%B6n/</link>
+        <guid isPermaLink="true">/f%C3%B6rstasn%C3%B6n/</guid>
+        
         
       </item>
     
@@ -64,6 +86,11 @@
       &lt;li&gt;stö därefter kanel på äpplena&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/äpple.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Förberedelse av kakformen&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;smörj kakformen med smör eller klä den med blött bakplåtspapper&lt;/li&gt;
@@ -72,6 +99,8 @@
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/klarkaka.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 Nov 2024 00:00:00 +0100</pubDate>
         <link>/appelkaka-recept/</link>

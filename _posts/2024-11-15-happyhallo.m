@@ -6,7 +6,7 @@ categories: [ recipes ]
 tags: [red]
 image: assets/images/barnbarnen.jpg
 comments: false
-featured: true
+featured: false
 #rating: 4.5
 ---
 
