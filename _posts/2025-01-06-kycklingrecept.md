@@ -4,7 +4,7 @@ title:  "Kycklingcurry"
 author: viskaren
 categories: [ recept]
 tags: [lunch]
-image: assets/images/kyckling.jpg
+image: assets/images/curry2.jpg
 comments: false
 featured: true
 hidden: true
