@@ -2,7 +2,7 @@
 layout: post
 title:  "Happy halloween"
 author: viskaren
-categories: [ recipes ]
+categories: [ bilder]
 tags: [red]
 image: assets/images/barnbarnen.jpg
 comments: false

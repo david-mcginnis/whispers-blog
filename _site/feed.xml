@@ -5,9 +5,53 @@
     <description>mitt liv vid havet</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Nov 2024 10:54:06 +0100</pubDate>
-    <lastBuildDate>Sun, 24 Nov 2024 10:54:06 +0100</lastBuildDate>
+    <pubDate>Mon, 06 Jan 2025 16:22:06 +0100</pubDate>
+    <lastBuildDate>Mon, 06 Jan 2025 16:22:06 +0100</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>Kycklingcurry</title>
+        <description>&lt;p&gt;Detta är en lättlagad lunch som smakar gott och med få ingredienser.&lt;/p&gt;
+
+&lt;p&gt;4 st.Portioner&lt;/p&gt;
+&lt;h2 id=&quot;ingredienser&quot;&gt;Ingredienser&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;800g kycklingfile&lt;/li&gt;
+  &lt;li&gt;2-3 msk smör&lt;/li&gt;
+  &lt;li&gt;1 gul lök&lt;/li&gt;
+  &lt;li&gt;2-3 msk curry&lt;/li&gt;
+  &lt;li&gt;5dl vispgrädde/matmagningsgrädde&lt;/li&gt;
+  &lt;li&gt;2st.kycklingbuljong tärningar&lt;/li&gt;
+  &lt;li&gt;1/2 dl chilisås&lt;/li&gt;
+  &lt;li&gt;salt och malen svartpeppar efter smak&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gör-så-här&quot;&gt;Gör så här&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dela fileerna i mindre bitar&lt;/li&gt;
+  &lt;li&gt;Finhacka löken&lt;/li&gt;
+  &lt;li&gt;Smält smöret i tjockbottnad kastrull och fräs löken mjuk och glansig på låg värme.&lt;/li&gt;
+  &lt;li&gt;Tillsätt curryn och fräs tillsammans med löken en minut.&lt;/li&gt;
+  &lt;li&gt;Lägg därefter i kycklingdelarna i kastrullen tillsammans med buljong tärningarna.&lt;/li&gt;
+  &lt;li&gt;Steka allt tillsammans några minuter.&lt;/li&gt;
+  &lt;li&gt;Häll i grädde, chilisås och låt allt koka upp till kycklingen är mjuk och går lätt att dela.&lt;/li&gt;
+  &lt;li&gt;Smaka av ock salta och peppra efter smak.&lt;/li&gt;
+  &lt;li&gt;Servera med kokt basmatiris och gröna ärtor.&lt;/li&gt;
+  &lt;li&gt;Smaklig måltid :)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 06 Jan 2025 00:00:00 +0100</pubDate>
+        <link>/kycklingrecept/</link>
+        <guid isPermaLink="true">/kycklingrecept/</guid>
+        
+        <category>lunch</category>
+        
+        
+        <category>recept</category>
+        
+      </item>
     
       <item>
         <title>Surf i Brantevik</title>
@@ -138,7 +182,7 @@ De sista äpplena i trädgården.
         <category>red</category>
         
         
-        <category>recipes</category>
+        <category>bilder</category>
         
       </item>
     
