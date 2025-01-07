@@ -19,7 +19,7 @@ Detta är en lättlagad lunch som smakar gott och med få ingredienser.
 - 2-3 msk smör
 - 1 gul lök
 - 2-3 msk curry
-- 5dl vispgrädde/matmagningsgrädde
+- 5dl vispgrädde/matlagningsgrädde
 - 2st.kycklingbuljong tärningar
 - 1/2 dl chilisås
 - salt och malen svartpeppar efter smak
