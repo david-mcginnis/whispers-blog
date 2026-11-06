@@ -3,10 +3,10 @@
   <channel>
     <title>Viskningarna vid havet</title>
     <description>mitt liv vid havet</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Jan 2025 15:10:01 +0100</pubDate>
-    <lastBuildDate>Tue, 07 Jan 2025 15:10:01 +0100</lastBuildDate>
+    <link>http://localhost:4001/</link>
+    <atom:link href="http://localhost:4001/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 21 May 2025 08:53:14 +0200</pubDate>
+    <lastBuildDate>Wed, 21 May 2025 08:53:14 +0200</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
     
       <item>
@@ -43,8 +43,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 06 Jan 2025 00:00:00 +0100</pubDate>
-        <link>/kycklingrecept/</link>
-        <guid isPermaLink="true">/kycklingrecept/</guid>
+        <link>http://localhost:4001/kycklingrecept/</link>
+        <guid isPermaLink="true">http://localhost:4001/kycklingrecept/</guid>
         
         <category>lunch</category>
         
@@ -58,8 +58,8 @@
         <description>&lt;p&gt;Starka vindar från söder är perfekt för surfing idag.&lt;/p&gt;
 </description>
         <pubDate>Sun, 24 Nov 2024 00:00:00 +0100</pubDate>
-        <link>/surf/</link>
-        <guid isPermaLink="true">/surf/</guid>
+        <link>http://localhost:4001/surf/</link>
+        <guid isPermaLink="true">http://localhost:4001/surf/</guid>
         
         <category>natur</category>
         
@@ -87,8 +87,8 @@ De sista äpplena i trädgården.
 
 </description>
         <pubDate>Fri, 22 Nov 2024 00:00:00 +0100</pubDate>
-        <link>/f%C3%B6rstasn%C3%B6n/</link>
-        <guid isPermaLink="true">/f%C3%B6rstasn%C3%B6n/</guid>
+        <link>http://localhost:4001/f%C3%B6rstasn%C3%B6n/</link>
+        <guid isPermaLink="true">http://localhost:4001/f%C3%B6rstasn%C3%B6n/</guid>
         
         
       </item>
@@ -98,8 +98,8 @@ De sista äpplena i trädgården.
         <description>&lt;p&gt;Måndag,sen eftermiddag. Kall men underbar dag vid havet.Klar himmel hela dagen. Nu går solen ned och molnen börjar lägga sig som ett täcke över Brantevik.&lt;/p&gt;
 </description>
         <pubDate>Mon, 18 Nov 2024 00:00:00 +0100</pubDate>
-        <link>/bl%C3%A5himmel/</link>
-        <guid isPermaLink="true">/bl%C3%A5himmel/</guid>
+        <link>http://localhost:4001/bl%C3%A5himmel/</link>
+        <guid isPermaLink="true">http://localhost:4001/bl%C3%A5himmel/</guid>
         
         <category>natur</category>
         
@@ -147,8 +147,8 @@ De sista äpplena i trädgården.
 &lt;p&gt;&lt;img src=&quot;/assets/images/klarkaka.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 Nov 2024 00:00:00 +0100</pubDate>
-        <link>/appelkaka-recept/</link>
-        <guid isPermaLink="true">/appelkaka-recept/</guid>
+        <link>http://localhost:4001/appelkaka-recept/</link>
+        <guid isPermaLink="true">http://localhost:4001/appelkaka-recept/</guid>
         
         <category>dessert</category>
         
@@ -162,8 +162,8 @@ De sista äpplena i trädgården.
         <description>&lt;p&gt;Det är svårt att lära sig comands&lt;/p&gt;
 </description>
         <pubDate>Fri, 15 Nov 2024 00:00:00 +0100</pubDate>
-        <link>/myfirstpost/</link>
-        <guid isPermaLink="true">/myfirstpost/</guid>
+        <link>http://localhost:4001/myfirstpost/</link>
+        <guid isPermaLink="true">http://localhost:4001/myfirstpost/</guid>
         
         <category>natur</category>
         
@@ -176,8 +176,8 @@ De sista äpplena i trädgården.
         <title>Happy halloween</title>
         <description>Fredagmorgon</description>
         <pubDate>Fri, 15 Nov 2024 00:00:00 +0100</pubDate>
-        <link>/happyhallo/</link>
-        <guid isPermaLink="true">/happyhallo/</guid>
+        <link>http://localhost:4001/happyhallo/</link>
+        <guid isPermaLink="true">http://localhost:4001/happyhallo/</guid>
         
         <category>red</category>
         
