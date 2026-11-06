@@ -2,7 +2,7 @@
 layout: page
 title: Om
 permalink: /about/
-feature-img: "assets/img/dianaThumb.jpg"
+feature-img: "assets/img/seahouse.jpg"
 tags: []
 ---
 
