@@ -4,7 +4,7 @@ url: "https://viskningarnavidhavet.com"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Mitt liv vid havet                               # site's title
-description: "A website with blog posts and pages"      # used by search engines
+description: ""      # used by search engines
 avatar: assets/img/favicon-512x512.png                  # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
