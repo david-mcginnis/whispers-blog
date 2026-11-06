@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://viskningarnavidhavet.com/"
+url: "https://viskningarnavidhavet.com"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Mitt liv vid havet                               # site's title
