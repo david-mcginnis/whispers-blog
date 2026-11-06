@@ -1,11 +1,11 @@
 --- 
 layout: page
-title : Portfolio 
+title : Portfölj 
 permalink: /portfolio/
-subtitle: "Projects I am working on" 
-feature-img: "assets/img/pexels/computer.jpeg"
+subtitle: "Hantverk vid havet" 
+feature-img: "assets/img/portfolio/yarn.jpg"
 position: 4
-tags: [Page]
+tags: [recept,stickning]
 ---
 
 {% include portfolio.html %}
